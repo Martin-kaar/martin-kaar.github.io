@@ -1,0 +1,35 @@
+.coffeeDiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#coffeeImg{
+    transition: linear 1s;
+}
+h1{
+    font-size: 4em;
+    text-align: center;
+}
+
+#clickImg{
+    text-align: center;
+
+}
+
+
+html{
+    font-family: "SF Pro Display";
+}
+
+ #coffeeImg:active { 
+    transform: scale(0.9); 
+}
+#output{
+    text-align: center;
+    position: absolute;
+    top: 700px;
+    font-size: 2em;
+
+}
