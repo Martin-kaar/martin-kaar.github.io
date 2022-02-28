@@ -21,7 +21,11 @@ html {
   margin-top: 5%;
   margin-bottom: 10%;
 }
-
+#container{
+  position: relative;
+  width: 80%;
+  left: 12.5%;
+}
 .facts {
   text-align: center;
   color: white;
