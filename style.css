@@ -49,6 +49,12 @@ html {
   width: 50%;
   mix-blend-mode: screen;
 }
+.allProjects{
+  display: grid;
+  gap: 50px;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
 
 .mostRecent h2 {
   text-align: center;
